@@ -40,7 +40,7 @@ class Producto:
 # Clase Inventario
 # ============================
 class Inventario:
-    def __init__(self, archivo="inventario.txt"):
+    def __init__(self, archivo="inventario.Json"):
         self.productos = []
         self.archivo = archivo
         self.cargar_desde_archivo()
