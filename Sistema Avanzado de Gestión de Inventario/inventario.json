@@ -1,0 +1,14 @@
+{
+  "233": {
+    "id_producto": "233",
+    "nombre": "pera",
+    "cantidad": 200,
+    "precio": 0.5
+  },
+  "0023": {
+    "id_producto": "0023",
+    "nombre": "azucar",
+    "cantidad": 82,
+    "precio": 2.7
+  }
+}
